@@ -182,9 +182,6 @@
 <script type="text/javascript" src="plugins/jquery.counterup.min.js"></script>
 <!-- Waypoints -->
 <script type="text/javascript" src="plugins/waypoints.min.js"></script>
-<!-- google map -->
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDb5KGfWAckxCGpoBYfAxNvPuiez5r_rJw"></script>
-<script src="plugins/google-map/gmap.js"></script>
 
 <!-- Main Script -->
 <script src="js/script.js"></script>
